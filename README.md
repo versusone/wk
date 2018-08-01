@@ -1,7 +1,7 @@
 I) WantedKeyword (wk) Python Type Checking tool (Python3)
 
 
-Full doc at: netnotnut.org/wk
+Full doc at: netnotnut.org/wk  
 Contact wkeywords@gmx.com
 
 1/ INTRODUCTION
